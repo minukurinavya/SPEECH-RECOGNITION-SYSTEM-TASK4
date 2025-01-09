@@ -76,9 +76,9 @@ def speech_to_text():
 if _name_ == "_main_":
     speech_to_text()
 
-CIRCUIT DIAGRAM:
+CIRCUIT DIAGRAM:https://github.com/minukurinavya/SPEECH-RECOGNITION-SYSTEM-TASK4/commit/392bc092a7117ae6f647ca410174a36943cafbb5
 
-BLOCK DIAGRAM:
+BLOCK DIAGRAM:https://github.com/minukurinavya/SPEECH-RECOGNITION-SYSTEM-TASK4/commit/ffbc589b8acf533500417cc693b1fb617290a6c6
 
  WORKING:
     The Speech Recognition System operates by capturing spoken commands through a microphone, which serves as the audio input. The embedded board processes these audio signals, converting them into a digital format suitable for analysis. A speech recognition module or algorithm on the board interprets the digital audio, identifying specific keywords or phrases that correspond to predefined commands. Once the commands are recognized, the system translates them into control signals that trigger actions on connected devices, such as turning a light on or off or adjusting a thermostat. This process occurs in real time, ensuring seamless and efficient device control. Additional features, like noise filtering and keyword detection, enhance the system's accuracy and reliability, making it a practical solution for hands-free command-based automation.
@@ -87,4 +87,4 @@ CONCLUSION:
   In conclusion, the Speech Recognition System provides a practical and efficient solution for command-based control of devices using voice input. By integrating a microphone, embedded board, and speech recognition technology, the system enables seamless and hands-free operation, enhancing user convenience and accessibility. Its ability to interpret spoken commands and execute corresponding actions in real time demonstrates its potential in smart automation, assistive technologies, and industrial applications. This system highlights the power of voice-controlled interfaces in creating intuitive and interactive environments, paving the way for future advancements in human-machine interaction.
 
 
-OUTPUT OF THE PROJECT:
+OUTPUT OF THE PROJECT:https://github.com/minukurinavya/SPEECH-RECOGNITION-SYSTEM-TASK4/commit/6b0776a3b1ce1facf79a87bcb56dca8d0803a938
